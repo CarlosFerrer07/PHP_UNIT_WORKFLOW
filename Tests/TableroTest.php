@@ -2,7 +2,7 @@
 
 use PHPUnit\Framework\TestCase;
 
-require '../Classes/Tablero.php';
+require './Classes/Tablero.php';
 
 class TableroTest extends TestCase {
 
